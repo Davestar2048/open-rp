@@ -135,8 +135,7 @@ TODO: Terribly incomplete, lacking in documentation here...
 When cloning this repository, ensure you enable recursive mode to ensure any
 required submodules (ex: FFMpeg) are included:
 
-    # git clone --recursive git@github.com:dsokoloski/open-rp.git
-
+    # git clone --recursive https://github.com/Davestar2048/open-rp.git
 Running ./autogen.sh is required to create required build system files/scripts:
 
     # ./autogen.sh
