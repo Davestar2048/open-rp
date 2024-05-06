@@ -1,12 +1,9 @@
 Open Remote Play
 ================
-
-https://github.com/dsokoloski/open-rp
-
-Previously: https://code.google.com/p/open-rp/
-
 Wouldn't it be cool if you could run Remote Play from your laptop, desktop, or
 perhaps your phone?
+
+shoobyban's original Thanks
 
 After 2 weeks of hardcore reverse-engineering, now you can!
 
@@ -124,12 +121,12 @@ another for Internet connections.
 Known Issues
 ------------
 
-https://github.com/dsokoloski/open-rp/issues
+https://github.com/Davestar2048/open-rp/issues
 
 Change Log
 -------------------------------------------------------------------------------
 
-https://github.com/dsokoloski/open-rp/commits/master
+https://github.com/Davestar2048/open-rp/commits/master
 
 Compilation
 -----------
