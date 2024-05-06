@@ -3,18 +3,18 @@ Open Remote Play
 Wouldn't it be cool if you could run Remote Play from your laptop, desktop, or
 perhaps your phone?
 
-shoobyban's original Thanks
-
 After 2 weeks of hardcore reverse-engineering, now you can!
 
-I would like to thank Dark_AleX for hacking the PSP.  Without his work, ORP
-would not be possible.  I would also like to thank TyRaNiD for psplink and
-prxtool.  Using psplink makes this type of work almost painless!  Thanks to
-jas0nuk for the essential PRXdecrypter utility.
+shoobyban's original Thanks:
+    
+    I would like to thank Dark_AleX for hacking the PSP.  Without his work, ORP
+    would not be possible.  I would also like to thank TyRaNiD for psplink and
+    prxtool.  Using psplink makes this type of work almost painless!  Thanks to
+    jas0nuk for the essential PRXdecrypter utility.
 
-Thanks to Greg for the MacBook loan and beer!
+    Thanks to Greg for the MacBook loan and beer!
 
-Thanks to MohammadAG for the virtual keyboard idea!
+    Thanks to MohammadAG for the virtual keyboard idea!
 
 Controls
 --------
